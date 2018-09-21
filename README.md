@@ -1,1 +1,1 @@
- Weather_app  is an unofficial, small, and simple app that uses the National Weather Service API. It features the ability to check currently, hourly, and weekly forecasts for a static location (one you set) or a GPS location..
+Weather_app is an unofficial, small, and simple app that uses the open Weather API. It features the ability to check currently forecasts for a static location on your set.
